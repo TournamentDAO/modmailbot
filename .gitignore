@@ -8,3 +8,4 @@
 /config.*
 *.config.ini
 !/config.example.ini
+config.bat
